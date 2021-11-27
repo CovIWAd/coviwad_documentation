@@ -9,7 +9,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Permet d'enregistrer ses documents relatifs au covid, comme le pass sanitaire, les tests PCR...
+        Permet d'enregistrer ses documents relatifs au covid, comme les vaccins, les tests PCR...
       </>
     ),
   },
@@ -19,17 +19,47 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Permet de recevoir en temps réel de nombreuses informations relative à la situation sanitaire.
+        Permet de recevoir en temps réel de nombreuses informations relatives à la situation sanitaire.
       </>
     ),
   },
   {
-    title: 'Geolocalisation',
-    path: 'geolocalisation',
+    title: 'Geolocation',
+    path: 'geolocation',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Permet de savoir si vous croisé des personnes qui se sont déclaré positives au covid afin de vous isoler.
+        Permet de savoir si vous croisez des personnes qui se sont déclarés positives au covid afin de vous isoler.
+      </>
+    ),
+  },
+  {
+    title: 'Users',
+    path: 'users',
+    Svg: require('../../static/img/undraw_docusaurus_fb.svg').default,
+    description: (
+      <>
+        Permet de modifier les informations (nom et prénom) d'un utilisateur ainsi qu'accéder à tous les utilisateurs pour l'admin.
+      </>
+    ),
+  },
+  {
+    title: 'Keycloak',
+    path: 'keycloak',
+    Svg: require('../../static/img/undraw_docusaurus_browser.svg').default,
+    description: (
+      <>
+        Permet de gérer les utilisateurs de l'application (sign-in, sign-up, roles...).
+      </>
+    ),
+  },
+  {
+    title: 'Kafka',
+    path: 'kafka',
+    Svg: require('../../static/img/undraw_docusaurus_process.svg').default,
+    description: (
+      <>
+        Permet d'enregistrer les localisations et permet de récupérer les cas contact lorsqu'un utilisateur se déclare positif.
       </>
     ),
   },
