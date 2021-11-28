@@ -34,16 +34,6 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Users',
-    path: 'users',
-    Svg: require('../../static/img/undraw_docusaurus_fb.svg').default,
-    description: (
-      <>
-        Allows you to modify the information (first name and last name) of a user as well as access all users for the admin.
-      </>
-    ),
-  },
-  {
     title: 'Keycloak',
     path: 'keycloak',
     Svg: require('../../static/img/undraw_docusaurus_browser.svg').default,
@@ -61,6 +51,16 @@ const FeatureList = [
       <>
         Allows you to record locations and retrieve contact cases when a user tests positive.
       </>
+    ),
+  },
+  {
+    title: 'Structure',
+    path: 'structure',
+    Svg: require('../../static/img/undraw_docusaurus_fb.svg').default,
+    description: (
+        <>
+          General structure of the covIWAd code.
+        </>
     ),
   },
   ,

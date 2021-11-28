@@ -101,7 +101,7 @@ const config = {
                 to: '/front',
               },
               {
-                label: 'Users',
+                label: 'Structure',
                 to: 'structure',
               },
               {
