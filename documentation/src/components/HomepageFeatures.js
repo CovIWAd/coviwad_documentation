@@ -86,6 +86,16 @@ const FeatureList = [
         </>
     ),
   },
+  {
+    title: 'Users',
+    path: 'users',
+    Svg: require('../../static/img/undraw_front.svg').default,
+    description: (
+        <>
+          The user interface.
+        </>
+    ),
+  },
 ];
 
 function Feature({Svg, title, description, path}) {
