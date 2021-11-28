@@ -62,7 +62,6 @@ const FeatureList = [
           Allows you to modify the information (first name and last name) of a user as well as access all users for the admin. </>
     ),
   },
-  ,
   {
     title: 'Gateway',
     path: 'gateway',
@@ -74,7 +73,6 @@ const FeatureList = [
         </>
     ),
   },
-  ,
   {
     title: 'Front',
     path: 'front',
@@ -93,6 +91,16 @@ const FeatureList = [
         <>
           General structure of the covIWAd code.
         </>
+    ),
+  },
+  {
+    title: 'Technologies',
+    path: 'technologies',
+    Svg: require('../../static/img/undraw_pair_programming.svg').default,
+    description: (
+      <>
+        Part to explain our technological choices to program our application.
+      </>
     ),
   },
 ];
