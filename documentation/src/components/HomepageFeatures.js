@@ -35,7 +35,7 @@ const FeatureList = [
   },
   {
     title: 'Keycloak',
-    path: 'keycloak',
+    path: 'keycloack',
     Svg: require('../../static/img/undraw_docusaurus_browser.svg').default,
     description: (
       <>
@@ -95,7 +95,6 @@ const FeatureList = [
         </>
     ),
   },
-
 ];
 
 function Feature({Svg, title, description, path}) {
