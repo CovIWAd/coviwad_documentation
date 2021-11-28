@@ -1,5 +1,9 @@
 # Coviwad - Keycloak
 
+:::danger
+Keycloak is now hosted. Please follow the instructions only if you are in development mode.
+:::
+
 ## Setup keycloak
 
 Run docker-compose configuration:
