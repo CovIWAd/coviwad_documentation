@@ -34,12 +34,12 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Users',
-    path: 'users',
+    title: 'Structure',
+    path: 'structure',
     Svg: require('../../static/img/undraw_docusaurus_fb.svg').default,
     description: (
       <>
-        Permet de modifier les informations (nom et prénom) d'un utilisateur ainsi qu'accéder à tous les utilisateurs pour l'admin.
+        Structure générale du code de covIWAd.
       </>
     ),
   },

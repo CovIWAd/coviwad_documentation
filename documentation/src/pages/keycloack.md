@@ -18,3 +18,6 @@ After the services have started, keycloak should be available at http://localhos
 6. Click on `Create`
 7. Click user in top right corner > Manage account
 8. Click Personal Info and edit the email to : coviwad.alert@gmail.com and choose names
+
+Voir [kafka](/kafka).
+Revenir sur [la structure](/structure).
