@@ -19,7 +19,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_structure.svg').default,
     description: (
       <>
-        General structure of the covIWAd code.
+        General structure of the covIWAd code and microservices.
       </>
     ),
   },
