@@ -21,5 +21,5 @@ You will also see any lint errors in the console.
 
 ### Don't forget to lanch the microservices (news and documents).
 
-Voir [users](/users).
-Revenir sur [gateway](/gateway).
+See [structure](/structure).
+Back to [gateway](/gateway).
