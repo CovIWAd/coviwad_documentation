@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/CovIWAd',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            'https://github.com/CovIWAd',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -60,40 +60,52 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Fonctionnalités',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Documents',
+                to: '/documents',
+              },
+              {
+                label: 'News',
+                to: '/news',
+              },
+              {
+                label: 'Geolocalisation',
+                to: '/geolocation',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Services',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Kafka',
+                to: 'kafka',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Keycloack',
+                to: 'keycloack',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Gateway',
+                to: 'gateway',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Autres',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Front',
+                to: '/front',
               },
               {
-                label: 'GitHub',
+                label: 'Users',
+                to: 'structure',
+              },
+              {
+                label: 'Github',
                 href: 'https://github.com/CovIWAd',
               },
             ],
