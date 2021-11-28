@@ -35,7 +35,7 @@ const FeatureList = [
   },
   {
     title: 'Keycloak',
-    path: 'keycloack',
+    path: 'keycloak',
     Svg: require('../../static/img/undraw_docusaurus_browser.svg').default,
     description: (
       <>

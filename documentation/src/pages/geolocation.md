@@ -40,5 +40,5 @@ KEYCLOAK_URL = https://coviwad-keycloak.cluster-ig5.igpolytech.fr/auth
 
 ```
 
-See [keycloak](/keycloack).
+See [keycloak](/keycloak).
 Go back to [news](/news).

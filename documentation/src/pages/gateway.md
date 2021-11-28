@@ -10,6 +10,7 @@ This gateway allows to know the location of each microservice.
 
 Run `bootRun` with the given environment variables:
 
+```
 USERS_URL = http://localhost:8084
 
 NEWS_URL = http://localhost:8081
@@ -19,7 +20,7 @@ DOCUMENTS_URL = http://localhost:8082
 GEOLOCATIONS_URL = http://localhost:8083
 
 FRONT_URL = http://localhost:8080
+```
 
-
-Voir [le front](/front).
-Revenir sur [la structure](/structure).
+See [front](/front).
+Back to [structure](/structure).

@@ -84,8 +84,8 @@ const config = {
                 to: 'kafka',
               },
               {
-                label: 'Keycloack',
-                to: 'keycloack',
+                label: 'Keycloak',
+                to: 'keycloak',
               },
               {
                 label: 'Gateway',
