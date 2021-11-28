@@ -9,3 +9,32 @@
   height: 200px;
   width: 200px;
 }
+
+.containerStart {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-bottom: 3%;
+  margin-top: 2%;
+}
+
+.gettingStarted {
+  width: 20%;
+  height: 50px;
+  background-color: rgb(31, 165, 136);
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.hrefStart {
+  font-family: Arial;
+  font-size: medium;
+  color: white;
+  text-decoration: none;
+}
+
+.hrefStart:hover {
+  text-decoration: none;
+  font-size: medium;
+  color: rgb(221, 238, 230);
+}

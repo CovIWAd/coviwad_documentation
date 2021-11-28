@@ -22,5 +22,4 @@ GEOLOCATIONS_URL = http://localhost:8083
 FRONT_URL = http://localhost:8080
 ```
 
-See [front](/front).
 Back to [users](/users).

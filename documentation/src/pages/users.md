@@ -38,5 +38,5 @@ DB_PASSWORD = postgres
 ```
 
 
-See [kafka](/kafka).
-Go back to [gateway](/gateway).
+See [gateway](/gateway).
+Go back to [kafka](/kafka).
