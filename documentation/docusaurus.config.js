@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'CovIWAd',
   tagline: 'Ensemble, éradicons le virus',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://coviwad.netlify.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
