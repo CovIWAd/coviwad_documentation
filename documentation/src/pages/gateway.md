@@ -23,4 +23,4 @@ FRONT_URL = http://localhost:8080
 ```
 
 See [front](/front).
-Back to [structure](/structure).
+Back to [users](/users).
