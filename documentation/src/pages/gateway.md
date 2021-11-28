@@ -19,3 +19,7 @@ DOCUMENTS_URL = http://localhost:8082
 GEOLOCATIONS_URL = http://localhost:8083
 
 FRONT_URL = http://localhost:8080
+
+
+Voir [le front](/front).
+Revenir sur [la structure](/structure).

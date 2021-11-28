@@ -58,5 +58,5 @@
 ```
 
 
-Voir [keycloack](/keycloack).
-Revenir sur [la géolocalisation](/geolocation).
+Voir [gateway](/gateway).
+Revenir sur [kafka](/kafka).
