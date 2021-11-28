@@ -9,7 +9,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Permet d'enregistrer ses documents relatifs au covid, comme les vaccins, les tests PCR...
+        Allows you to save your documents related to covid, such as vaccines, PCR tests...
       </>
     ),
   },
@@ -19,7 +19,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Permet de recevoir en temps réel de nombreuses informations relatives à la situation sanitaire.
+        Allows you to receive in real time numerous information related to the health situation.
       </>
     ),
   },
@@ -29,7 +29,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Permet de savoir si vous croisez des personnes qui se sont déclarés positives au covid afin de vous isoler.
+        Lets you know if you are crossing paths with people who have tested positive for covid in order to isolate you.
       </>
     ),
   },
@@ -39,7 +39,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_fb.svg').default,
     description: (
       <>
-        Permet de modifier les informations (nom et prénom) d'un utilisateur ainsi qu'accéder à tous les utilisateurs pour l'admin.
+        Allows you to modify the information (first name and last name) of a user as well as access all users for the admin.
       </>
     ),
   },
@@ -49,18 +49,41 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_browser.svg').default,
     description: (
       <>
-        Permet de gérer les utilisateurs de l'application (sign-in, sign-up, roles...).
+        Allows to manage the users of the application (sign-in, sign-up, roles...).
       </>
     ),
   },
   {
     title: 'Kafka',
     path: 'kafka',
-    Svg: require('../../static/img/undraw_docusaurus_process.svg').default,
+    Svg: require('../../static/img/undraw_kafka.svg').default,
     description: (
       <>
-        Permet d'enregistrer les localisations et permet de récupérer les cas contact lorsqu'un utilisateur se déclare positif.
+        Allows you to record locations and retrieve contact cases when a user tests positive.
       </>
+    ),
+  },
+  ,
+  {
+    title: 'Gateway',
+    path: 'gateway',
+    Svg: require('../../static/img/undraw_docusaurus_process.svg').default,
+    description: (
+        <>
+          Allows to redirect the front-end to the different microservices.
+
+        </>
+    ),
+  },
+  ,
+  {
+    title: 'Front',
+    path: 'front',
+    Svg: require('../../static/img/undraw_front.svg').default,
+    description: (
+        <>
+          The user interface.
+        </>
     ),
   },
 ];
