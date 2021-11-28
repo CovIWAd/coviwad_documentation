@@ -4,6 +4,36 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
+    title: 'Technologies',
+    path: 'technologies',
+    Svg: require('../../static/img/undraw_pair_programming.svg').default,
+    description: (
+      <>
+        Part to explain our technological choices to program our application.
+      </>
+    ),
+  },
+  {
+    title: 'Structure',
+    path: 'structure',
+    Svg: require('../../static/img/undraw_structure.svg').default,
+    description: (
+      <>
+        General structure of the covIWAd code.
+      </>
+    ),
+  },
+  {
+    title: 'Front',
+    path: 'front',
+    Svg: require('../../static/img/undraw_front.svg').default,
+    description: (
+      <>
+        The user interface.
+      </>
+    ),
+  },
+  {
     title: 'Documents',
     path: 'documents',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
@@ -71,36 +101,6 @@ const FeatureList = [
           Allows to redirect the front-end to the different microservices.
 
         </>
-    ),
-  },
-  {
-    title: 'Front',
-    path: 'front',
-    Svg: require('../../static/img/undraw_front.svg').default,
-    description: (
-        <>
-          The user interface.
-        </>
-    ),
-  },
-  {
-    title: 'Structure',
-    path: 'structure',
-    Svg: require('../../static/img/undraw_structure.svg').default,
-    description: (
-        <>
-          General structure of the covIWAd code.
-        </>
-    ),
-  },
-  {
-    title: 'Technologies',
-    path: 'technologies',
-    Svg: require('../../static/img/undraw_pair_programming.svg').default,
-    description: (
-      <>
-        Part to explain our technological choices to program our application.
-      </>
     ),
   },
 ];

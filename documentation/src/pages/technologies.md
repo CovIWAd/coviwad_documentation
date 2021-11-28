@@ -46,4 +46,4 @@ We chose to use the **React** frontend framework. First of all, because all thre
 We used **Github** to host our source codes. This tool allows us to do versioning and to follow the evolution of the project thanks to the different branches (dev/master). Git allows us to code with several collaborators without causing major problems in the code (no conflicts etc.).
 We also created an organization which allowed us to better organize the repositories and to easily find each microservice. The organization is available [here](https://github.com/CovIWAd).
 
-Go back to [structure](/geolocation).
+See [structure](/geolocation).

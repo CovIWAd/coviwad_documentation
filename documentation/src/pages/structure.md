@@ -59,5 +59,5 @@
 ```
 
 
-See [gateway](/gateway).
-Back to [kafka](/kafka).
+See [front](/front).
+Back to [technologies](/technologies).
