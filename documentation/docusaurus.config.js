@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'CovIWAd',
-  tagline: 'Ensemble, éradiquons le virus',
+  tagline: 'Together, let\'s eradicate the virus',
   url: 'https://coviwad.netlify.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
