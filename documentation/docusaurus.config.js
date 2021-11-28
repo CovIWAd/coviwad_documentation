@@ -74,6 +74,10 @@ const config = {
                 label: 'Geolocalisation',
                 to: '/geolocation',
               },
+              {
+                label: 'Users',
+                to: '/users',
+              },
             ],
           },
           {
@@ -86,10 +90,6 @@ const config = {
               {
                 label: 'Keycloak',
                 to: 'keycloak',
-              },
-              {
-                label: 'Gateway',
-                to: 'gateway',
               },
             ],
           },
@@ -105,8 +105,16 @@ const config = {
                 to: 'structure',
               },
               {
+                label: 'Technologies',
+                to: 'technologies',
+              },
+              {
                 label: 'Github',
                 href: 'https://github.com/CovIWAd',
+              },
+              {
+                label: 'Gateway',
+                to: 'gateway',
               },
             ],
           },
