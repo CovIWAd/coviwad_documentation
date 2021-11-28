@@ -54,13 +54,12 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Structure',
-    path: 'structure',
+    title: 'Users',
+    path: 'users',
     Svg: require('../../static/img/undraw_docusaurus_fb.svg').default,
     description: (
         <>
-          General structure of the covIWAd code.
-        </>
+          Allows you to modify the information (first name and last name) of a user as well as access all users for the admin. </>
     ),
   },
   ,
@@ -87,12 +86,12 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Users',
-    path: 'users',
-    Svg: require('../../static/img/undraw_front.svg').default,
+    title: 'Structure',
+    path: 'structure',
+    Svg: require('../../static/img/undraw_structure.svg').default,
     description: (
         <>
-          The user interface.
+          General structure of the covIWAd code.
         </>
     ),
   },

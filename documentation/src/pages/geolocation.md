@@ -2,5 +2,5 @@
 
 This is a Markdown page
 
-See [structure](/structure).
+See [keycloak](/keycloack).
 Go back to [news](/news).

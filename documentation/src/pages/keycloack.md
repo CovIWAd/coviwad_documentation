@@ -20,4 +20,4 @@ After the services have started, keycloak should be available at http://localhos
 8. Click Personal Info and edit the email to : coviwad.alert@gmail.com and choose names
 
 See [kafka](/kafka).
-Go back to [structure](/structure).
+Go back to [geolocation](/structure).
