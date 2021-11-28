@@ -16,4 +16,4 @@ Then connect to the database '\c documents_covid'
 Run `bootRun` with the given environment variables (in consignes.txt).
 
 
-Voir [les news](/news).
+See [news](/news).

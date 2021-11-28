@@ -2,5 +2,5 @@
 
 This is a Markdown page
 
-Voir [la structure](/structure).
-Revenir sur [les news](/news).
+See [structure](/structure).
+Go back to [news](/news).

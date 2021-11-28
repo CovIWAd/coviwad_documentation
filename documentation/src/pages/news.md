@@ -9,5 +9,5 @@ This microservice is a scraper from : https://www.santepubliquefrance.fr/dossier
 Run `bootRun`
 
 
-Voir [la géolocalisation](/geolocation).
-Revenir sur [les documents](/documents).
+See [the geolocation](/geolocation).
+Go back to [documents](/documents).
